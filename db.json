@@ -9,6 +9,7 @@
       "newLoan": {
         "obligors": [
           {
+            "id": "1",
             "isPrimary": true,
             "firstName": "Alexander",
             "middleName": "B",
@@ -17,6 +18,27 @@
             "certificateOfEligibilityReference": "000001",
             "eligibilityType": "POST_WWII",
             "ssn": "000000001",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "email": null,
+            "gender": null,
+            "race": null,
+            "ethnicity": null,
+            "isEthnicityCollected": null,
+            "isGenderCollected": null,
+            "isRaceCollected": null,
+            "demographicProvidedBy": null
+          },
+          {
+            "id": "2",
+            "isPrimary": false,
+            "firstName": "Bob",
+            "middleName": "",
+            "lastName": "Belcher",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000002",
             "serviceNumber": "000001",
             "dateOfBirth": 21600000,
             "email": null,
