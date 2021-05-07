@@ -12,6 +12,7 @@
             "isPrimary": true,
             "firstName": "Alexander",
             "middleName": "B",
+            "lastName": "Nagelberg",
             "obligorType": "VETERAN_USING_ENTITLEMENT",
             "certificateOfEligibilityReference": "000001",
             "eligibilityType": "POST_WWII",
