@@ -6,31 +6,33 @@
     {
       "id": "123456789012",
       "lin": "123456789012",
-      "obligors": [
-        {
-          "isPrimary": true,
-          "firstName": "Alexander",
-          "middleName": "B",
-          "obligorType": "VETERAN_USING_ENTITLEMENT",
-          "certificateOfEligibilityReference": "000001",
-          "eligibilityType": "POST_WWII",
-          "ssn": "000000001",
-          "serviceNumber": "000001",
-          "dateOfBirth": 21600000,
-          "email": null,
-          "gender": null,
-          "race": null,
-          "ethnicity": null,
-          "isEthnicityCollected": null,
-          "isGenderCollected": null,
-          "isRaceCollected": null,
-          "demographicProvidedBy": null
+      "newLoan": {
+        "obligors": [
+          {
+            "isPrimary": true,
+            "firstName": "Alexander",
+            "middleName": "B",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000001",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "email": null,
+            "gender": null,
+            "race": null,
+            "ethnicity": null,
+            "isEthnicityCollected": null,
+            "isGenderCollected": null,
+            "isRaceCollected": null,
+            "demographicProvidedBy": null
+          }
+        ],
+        "title": {
+          "mannerHeld": "SOLE_OWNERSHIP",
+          "nonObligors": [
+          ]
         }
-      ],
-      "title": {
-        "mannerHeld": "SOLE_OWNERSHIP",
-        "nonObligors": [
-        ]
       }
     }
   ]
