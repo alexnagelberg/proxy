@@ -54,9 +54,9 @@
               "white": true
             },
             "isEthnicityCollected": true,
-            "isGenderCollected": true,
+            "isGenderCollected": false,
             "isRaceCollected": true,
-            "demographicProvidedBy": null
+            "demographicProvidedBy": "FAX_OR_MAIL"
           },
           {
             "id": "2",
