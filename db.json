@@ -32,7 +32,7 @@
               "hispanicOrLatino": false,
               "mexican": false,
               "nonHispanicOrLatino": true,
-              "otherHispanicOrLatinoOrigin": false,
+              "otherHispanicOrLatinoOrigin": "",
               "puertoRican": false
             },
             "racialIdentity": {
