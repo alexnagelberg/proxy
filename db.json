@@ -109,6 +109,58 @@
             "demographicProvidedBy": null
           }
         ],
+        "fundingFee": [
+          {
+            "id": "1", 
+            "amountAddedToLoanAmount": 14168, 
+            "amountNotFinancedPaidByBorrowers": 0,
+            "amountNotFinancedPaidByOthers": 0,
+            "totalAmountCollected": 0,
+            "totalFundingFeeDueForTheLoan": 0,
+            "closingDate": 21600000,
+            "remittanceDate": 21600000,
+            "daysToRemit": 15,
+            "lateChargeDue": 0,
+            "totalLateInterestDue": 0,
+            "totalDueVA": 14168,
+            "entitlingVeteran": {
+                "isPrimary": true,
+                "firstName": "sandip",
+                "middleName": "a",
+                "lastName": "patel",
+                "totalAmountSubjectToFF": 616000,
+                "allocableAmount": 616000,
+                "fundingFeeRate": 2.3,
+                "fundingFeeOwed": 14168,
+                "totalFundingFeeDueForTheLoan": 14168
+            }
+          },
+          {
+            "id": "2", 
+            "amountAddedToLoanAmount": 14168, 
+            "amountNotFinancedPaidByBorrowers": 0,
+            "amountNotFinancedPaidByOthers": 0,
+            "totalAmountCollected": 0,
+            "totalFundingFeeDueForTheLoan": 0,
+            "closingDate": 21600000,
+            "remittanceDate": 21600000,
+            "daysToRemit": 15,
+            "lateChargeDue": 0,
+            "totalLateInterestDue": 0,
+            "totalDueVA": 14168,
+            "entitlingVeteran": {
+                "isPrimary": false,
+                "firstName": "Mark",
+                "middleName": "Robert",
+                "lastName": "Wahlberg",
+                "totalAmountSubjectToFF": 616000,
+                "allocableAmount": 616000,
+                "fundingFeeRate": 2.3,
+                "fundingFeeOwed": 14168,
+                "totalFundingFeeDueForTheLoan": 14168
+            }
+          }
+        ],
         "title": {
           "mannerHeld": "SOLE_OWNERSHIP",
           "nonObligors": [
