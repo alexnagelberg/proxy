@@ -53,6 +53,20 @@
               "vietnamese": false,
               "white": true
             },
+            "fundingFee": 
+          {
+          "amountAddedToLoanAmount": 14168,
+          "amountNotFinancedPaidByBorrowers": 0,
+          "amountNotFinancedPaidByOthers": 0,
+          "totalAmountCollected": 0,
+          "totalFundingFeeDueForTheLoan": 0,
+          "closingDate": 21600000,
+          "remittanceDate": 21600000,
+          "daysToRemit": 15,
+          "lateChargeDue": 0,
+          "totalLateInterestDue": 0,
+          "totalDueVA": 14168
+          },
             "isEthnicityCollected": true,
             "isGenderCollected": false,
             "isRaceCollected": true,
@@ -103,6 +117,20 @@
               "vietnamese": false,
               "white": true
             },
+                "fundingFee": 
+          {
+          "amountAddedToLoanAmount": 14168,
+          "amountNotFinancedPaidByBorrowers": 0,
+          "amountNotFinancedPaidByOthers": 0,
+          "totalAmountCollected": 0,
+          "totalFundingFeeDueForTheLoan": 0,
+          "closingDate": 21600000,
+          "remittanceDate": 21600000,
+          "daysToRemit": 15,
+          "lateChargeDue": 0,
+          "totalLateInterestDue": 0,
+          "totalDueVA": 14168
+          },
             "isEthnicityCollected": null,
             "isGenderCollected": null,
             "isRaceCollected": null,
